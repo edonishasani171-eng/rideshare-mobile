@@ -26,7 +26,7 @@ Te shofaqen nje kerkese ne ekranin e shoferit dhe ai mund te vendos te pranoj ap
 Te shaqen ne ekranin e udhetarit qe kerkesa nuk u pranua qe udhetari qe shikoj udhetimet e tjera ne radhe. Çfarë ndodh nëse nuk ka vende të lira?
 
 ## 7. Prova me kolegun
-Ne skic shtova Ku u hutua kolegu dhe çfarë ndryshova në skicë?
+Ne skic shtova dhe qimin nga shoferi. Ku u hutua kolegu dhe çfarë ndryshova në skicë?
 
 ## 8. Ndihma nga AI
 Nuk perdora AI. Shëno çfarë ndihme more dhe çfarë kontrollove vetë, ose shkruaj: Nuk përdora AI.
